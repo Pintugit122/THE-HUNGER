@@ -1,2 +1,1 @@
-# THE-HUNGER
-SNAKE GAME(PYTHON )
+# Python-Snake-Game
